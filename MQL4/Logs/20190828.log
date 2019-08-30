@@ -1,0 +1,247 @@
+1	01:05:37.844	MyNews EA 3 USDCHF,H1: debugging terminated
+3	01:05:37.971	MyNews EA 3 USDCHF,H1: not initialized
+0	01:05:37.971	MyNews EA 3 USDCHF,H1: uninit reason 8
+0	01:05:38.031	Expert MyNews EA 3 USDCHF,H1: removed
+0	01:32:32.723	GHL EURUSD,H4: deinitialized
+0	01:32:32.723	GHL EURUSD,H4: uninit reason 9
+0	01:32:32.723	QTI EURUSD,H4: deinitialized
+0	01:32:32.723	QTI EURUSD,H4: uninit reason 9
+0	01:32:32.727	Renko Bricks US30,M1: uninit reason 9
+0	01:32:32.731	GHL US30,H1: deinitialized
+0	01:32:32.731	GHL US30,H1: uninit reason 9
+0	01:32:32.731	QTI US30,H1: deinitialized
+0	01:32:32.731	QTI US30,H1: uninit reason 9
+0	01:32:32.736	trendpowervisual BTCUSD,Daily: deinitialized
+0	01:32:32.736	trendpowervisual BTCUSD,Daily: uninit reason 9
+0	01:32:32.736	Fibonacci Pivots THV BTCUSD,Daily: deinitialized
+0	01:32:32.743	Fibonacci Pivots THV BTCUSD,Daily: uninit reason 9
+0	01:32:32.744	FerruFx_Multi_info THV(2) BTCUSD,Daily: deinitialized
+0	01:32:32.744	FerruFx_Multi_info THV(2) BTCUSD,Daily: uninit reason 9
+0	01:32:32.853	channel-signal BTCUSD,Daily: uninit reason 9
+0	01:32:32.853	trendpowercurve BTCUSD,Daily: uninit reason 9
+0	01:32:32.853	GHL GER30,H4: deinitialized
+0	01:32:32.853	GHL GER30,H4: uninit reason 9
+0	01:32:32.853	QTI GER30,H4: deinitialized
+0	01:32:32.853	QTI GER30,H4: uninit reason 9
+0	01:32:33.848	Custom indicator GHL EURUSD,H4: removed
+0	01:32:33.848	Custom indicator QTI EURUSD,H4: removed
+0	01:32:33.877	Custom indicator Renko Bricks US30,M1: removed
+0	01:32:33.897	Custom indicator GHL US30,H1: removed
+0	01:32:33.897	Custom indicator QTI US30,H1: removed
+0	01:32:33.906	Custom indicator trendpowervisual BTCUSD,Daily: removed
+0	01:32:33.906	Custom indicator Fibonacci Pivots THV BTCUSD,Daily: removed
+0	01:32:33.907	Custom indicator FerruFx_Multi_info THV(2) BTCUSD,Daily: removed
+0	01:32:33.907	Custom indicator channel-signal BTCUSD,Daily: removed
+0	01:32:33.909	Custom indicator trendpowercurve BTCUSD,Daily: removed
+0	01:32:33.924	Custom indicator GHL GER30,H4: removed
+0	01:32:33.924	Custom indicator QTI GER30,H4: removed
+0	22:26:19.373	Custom indicator GHL EURUSD,H4: loaded successfully
+0	22:26:19.388	Custom indicator QTI EURUSD,H4: loaded successfully
+0	22:26:19.416	GHL EURUSD,H4: initialized
+0	22:26:19.416	QTI EURUSD,H4: initialized
+0	22:26:19.572	Custom indicator Market\Renko Bricks US30,M1: loaded successfully
+0	22:26:19.603	Renko Bricks US30,M1: initialized
+1	22:26:19.607	Renko Bricks US30,M1: array out of range in 'renko_bricks.mq4' (197,18)
+0	22:26:19.706	Custom indicator GHL US30,H1: loaded successfully
+0	22:26:19.720	Custom indicator QTI US30,H1: loaded successfully
+0	22:26:19.732	GHL US30,H1: initialized
+0	22:26:19.732	QTI US30,H1: initialized
+0	22:26:19.829	Custom indicator trendpowervisual BTCUSD,Daily: loaded successfully
+0	22:26:19.895	Custom indicator Fibonacci Pivots THV BTCUSD,Daily: loaded successfully
+0	22:26:19.972	Custom indicator FerruFx_Multi_info THV(2) BTCUSD,Daily: loaded successfully
+0	22:26:20.037	Custom indicator channel-signal BTCUSD,Daily: loaded successfully
+0	22:26:20.046	Custom indicator trendpowercurve BTCUSD,Daily: loaded successfully
+0	22:26:20.057	trendpowervisual BTCUSD,Daily: initialized
+0	22:26:20.057	Fibonacci Pivots THV BTCUSD,Daily: initialized
+0	22:26:20.057	FerruFx_Multi_info THV(2) BTCUSD,Daily: initialized
+0	22:26:20.057	channel-signal BTCUSD,Daily: initialized
+0	22:26:20.071	trendpowercurve BTCUSD,Daily: initialized
+0	22:26:20.297	Custom indicator GHL GER30,H4: loaded successfully
+0	22:26:20.308	Custom indicator QTI GER30,H4: loaded successfully
+0	22:26:20.319	GHL GER30,H4: initialized
+0	22:26:20.319	QTI GER30,H4: initialized
+0	22:26:21.508	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	22:26:23.740	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	22:26:24.791	MyNews EA 3 USDCHF,H1: -0.8 \\ 2019.08.27 22:58:52
+0	22:26:24.791	MyNews EA 3 USDCHF,H1: 0.00-0.800000021
+0	22:26:36.384	MyNews EA 3 USDCHF,H1: http://localhost:50686/API/PostTradesEA?KEY=TempKey123&Usr=168&EA=1&TC=82543557&OT=2019.08.27 22:58:52&SZ=0.10&IT=EURUSD&OP=1.1089100&SL=0.0000000&TP=0.0000000&CT=2019.08.27 22:58:55&CP=1.1088300&CM=-0.40&TX=0&SW=0.00&PR=-0.8000000&AT=1
+0	22:26:38.818	MyNews EA 3 USDCHF,H1: -4.69 \\ 2019.08.28 00:41:10
+0	22:26:38.818	MyNews EA 3 USDCHF,H1: 0.00-4.690000021
+0	22:26:53.553	MyNews EA 3 USDCHF,H1: http://localhost:50686/API/PostTradesEA?KEY=TempKey123&Usr=168&EA=1&TC=82553956&OT=2019.08.28 00:41:10&SZ=0.10&IT=USDCHF&OP=0.9815000&SL=0.0000000&TP=0.0000000&CT=2019.08.28 00:41:17&CP=0.9810400&CM=-0.40&TX=0&SW=0.00&PR=-4.6900000&AT=1
+0	22:26:54.560	MyNews EA 3 USDCHF,H1: http://divergencefx.gear.host/API/PingFromEA?KEY=TempKey123&ID_User=168&Bname=JAFX Ltd.&Baccount=2101299537
+0	22:26:55.936	MyNews EA 3 USDCHF,H1: initialized
+0	22:28:49.405	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	22:28:49.441	Expert MyNews EA 3 USDCHF,H1: removed
+0	22:29:15.368	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	22:29:16.900	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	22:29:17.873	MyNews EA 3 USDCHF,H1: -0.8 \\ 2019.08.27 22:58:52
+0	22:29:17.873	MyNews EA 3 USDCHF,H1: 0.00-0.800000021
+0	22:29:21.437	MyNews EA 3 USDCHF,H1: http://localhost:50686/API/PostTradesEA?KEY=TempKey123&Usr=168&EA=1&TC=82543557&OT=2019.08.27 22:58:52&SZ=0.10&IT=EURUSD&OP=1.1089100&SL=0.0000000&TP=0.0000000&CT=2019.08.27 22:58:55&CP=1.1088300&CM=-0.40&TX=0&SW=0.00&PR=-0.8000000&AT=1
+0	22:29:23.308	MyNews EA 3 USDCHF,H1: -4.69 \\ 2019.08.28 00:41:10
+0	22:29:23.308	MyNews EA 3 USDCHF,H1: 0.00-4.690000021
+0	22:29:41.996	MyNews EA 3 USDCHF,H1: http://localhost:50686/API/PostTradesEA?KEY=TempKey123&Usr=168&EA=1&TC=82553956&OT=2019.08.28 00:41:10&SZ=0.10&IT=USDCHF&OP=0.9815000&SL=0.0000000&TP=0.0000000&CT=2019.08.28 00:41:17&CP=0.9810400&CM=-0.40&TX=0&SW=0.00&PR=-4.6900000&AT=1
+0	22:29:43.763	MyNews EA 3 USDCHF,H1: http://divergencefx.gear.host/API/PingFromEA?KEY=TempKey123&ID_User=168&Bname=JAFX Ltd.&Baccount=2101299537
+0	22:29:44.410	MyNews EA 3 USDCHF,H1: initialized
+0	22:31:58.816	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	22:31:58.875	Expert MyNews EA 3 USDCHF,H1: removed
+0	22:32:35.135	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	22:32:36.173	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	22:32:37.196	MyNews EA 3 USDCHF,H1: -0.8 \\ 2019.08.27 22:58:52
+0	22:32:37.196	MyNews EA 3 USDCHF,H1: 0.00-0.800000021
+0	22:32:50.596	MyNews EA 3 USDCHF,H1: http://localhost:50686/API/PostTradesEA?KEY=TempKey123&Usr=168&EA=1&TC=82543557&OT=2019.08.27 22:58:52&SZ=0.10&IT=EURUSD&OP=1.1089100&SL=0&TP=0&CT=2019.08.27 22:58:55&CP=1.1088300&CM=-0.40&TX=0&SW=0&PR=-0.8000000&AT=1
+0	22:32:57.881	MyNews EA 3 USDCHF,H1: -4.69 \\ 2019.08.28 00:41:10
+0	22:32:57.881	MyNews EA 3 USDCHF,H1: 0.00-4.690000021
+0	22:33:03.029	MyNews EA 3 USDCHF,H1: http://localhost:50686/API/PostTradesEA?KEY=TempKey123&Usr=168&EA=1&TC=82553956&OT=2019.08.28 00:41:10&SZ=0.10&IT=USDCHF&OP=0.9815000&SL=0&TP=0&CT=2019.08.28 00:41:17&CP=0.9810400&CM=-0.40&TX=0&SW=0&PR=-4.6900000&AT=1
+0	22:33:04.943	MyNews EA 3 USDCHF,H1: http://divergencefx.gear.host/API/PingFromEA?KEY=TempKey123&ID_User=168&Bname=JAFX Ltd.&Baccount=2101299537
+0	22:33:06.389	MyNews EA 3 USDCHF,H1: initialized
+0	22:35:27.587	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	22:35:27.614	Expert MyNews EA 3 USDCHF,H1: removed
+0	22:35:30.040	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	22:35:31.519	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	22:35:49.935	MyNews EA 3 USDCHF,H1: -0.8 \\ 2019.08.27 22:58:52
+0	22:35:49.935	MyNews EA 3 USDCHF,H1: 0.00-0.800000021
+1	22:48:48.132	MyNews EA 3 USDCHF,H1: debugging terminated
+3	22:48:48.206	MyNews EA 3 USDCHF,H1: not initialized
+0	22:48:48.206	MyNews EA 3 USDCHF,H1: uninit reason 8
+0	22:48:48.252	Expert MyNews EA 3 USDCHF,H1: removed
+0	22:50:16.653	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	22:50:18.431	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	22:50:43.869	MyNews EA 3 USDCHF,H1: -0.8 \\ 2019.08.27 22:58:52
+0	22:50:43.869	MyNews EA 3 USDCHF,H1: 0.00-0.800000021
+1	22:51:55.353	MyNews EA 3 USDCHF,H1: debugging terminated
+3	22:51:55.430	MyNews EA 3 USDCHF,H1: not initialized
+0	22:51:55.430	MyNews EA 3 USDCHF,H1: uninit reason 8
+0	22:51:55.463	Expert MyNews EA 3 USDCHF,H1: removed
+0	22:52:12.913	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	22:52:14.462	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	22:52:21.860	MyNews EA 3 USDCHF,H1: -0.8 \\ 2019.08.27 22:58:52
+0	22:52:21.860	MyNews EA 3 USDCHF,H1: 0.00-0.800000021
+1	22:56:05.217	MyNews EA 3 USDCHF,H1: debugging terminated
+3	22:56:05.281	MyNews EA 3 USDCHF,H1: not initialized
+0	22:56:05.281	MyNews EA 3 USDCHF,H1: uninit reason 8
+0	22:56:05.308	Expert MyNews EA 3 USDCHF,H1: removed
+0	22:56:12.717	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	22:56:14.087	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	22:56:22.319	MyNews EA 3 USDCHF,H1: -0.8 \\ 2019.08.27 22:58:52
+0	22:56:22.319	MyNews EA 3 USDCHF,H1: 0.00-0.800000021
+0	22:56:37.034	MyNews EA 3 USDCHF,H1: http://localhost:50686/API/PostTradesEA?KEY=TempKey123&Usr=168&EA=1&OT=2019.08.27%2022:58:52&CT=2019.08.27%2022:58:55&PR=-0.80000&AT=1
+0	22:56:38.170	MyNews EA 3 USDCHF,H1: -4.69 \\ 2019.08.28 00:41:10
+0	22:56:38.170	MyNews EA 3 USDCHF,H1: 0.00-4.690000021
+1	22:58:32.517	MyNews EA 3 USDCHF,H1: debugging terminated
+3	22:58:32.555	MyNews EA 3 USDCHF,H1: not initialized
+0	22:58:32.555	MyNews EA 3 USDCHF,H1: uninit reason 8
+0	22:58:32.591	Expert MyNews EA 3 USDCHF,H1: removed
+0	22:59:32.013	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	22:59:33.675	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	22:59:40.271	MyNews EA 3 USDCHF,H1: -0.8 \\ 2019.08.27 22:58:52
+0	22:59:40.271	MyNews EA 3 USDCHF,H1: 0.00-0.800000021
+0	23:01:04.327	MyNews EA 3 USDCHF,H1: http://localhost:50686/API/PostTradesEA?KEY=TempKey123&Usr=168&EA=1&PR=-0.80000&AT=1
+0	23:01:05.843	MyNews EA 3 USDCHF,H1: -4.69 \\ 2019.08.28 00:41:10
+0	23:01:05.843	MyNews EA 3 USDCHF,H1: 0.00-4.690000021
+0	23:01:17.575	MyNews EA 3 USDCHF,H1: http://localhost:50686/API/PostTradesEA?KEY=TempKey123&Usr=168&EA=1&PR=-4.69000&AT=1
+0	23:01:28.111	MyNews EA 3 USDCHF,H1: http://divergencefx.gear.host/API/PingFromEA?KEY=TempKey123&ID_User=168&Bname=JAFX Ltd.&Baccount=2101299537
+0	23:01:29.662	MyNews EA 3 USDCHF,H1: initialized
+0	23:02:50.930	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	23:02:50.967	Expert MyNews EA 3 USDCHF,H1: removed
+0	23:11:47.602	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	23:11:48.891	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	23:11:54.994	MyNews EA 3 USDCHF,H1: -0.8 \\ 2019.08.27 22:58:52
+0	23:11:54.994	MyNews EA 3 USDCHF,H1: 0.00-0.800000021
+0	23:12:05.434	MyNews EA 3 USDCHF,H1: http://localhost:50686/API/PostTradesEA?KEY=TempKey123&Usr=168&EA=1&PR=-0.80000&AT=1
+0	23:12:07.470	MyNews EA 3 USDCHF,H1: -4.69 \\ 2019.08.28 00:41:10
+0	23:12:07.471	MyNews EA 3 USDCHF,H1: 0.00-4.690000021
+0	23:12:13.666	MyNews EA 3 USDCHF,H1: http://localhost:50686/API/PostTradesEA?KEY=TempKey123&Usr=168&EA=1&PR=-4.69000&AT=1
+0	23:12:20.073	MyNews EA 3 USDCHF,H1: http://divergencefx.gear.host/API/PingFromEA?KEY=TempKey123&ID_User=168&Bname=JAFX Ltd.&Baccount=2101299537
+0	23:12:23.483	MyNews EA 3 USDCHF,H1: initialized
+0	23:26:11.733	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	23:26:11.750	Expert MyNews EA 3 USDCHF,H1: removed
+0	23:26:15.191	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	23:26:17.193	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	23:26:19.800	MyNews EA 3 USDCHF,H1: -0.8 \\ 2019.08.27 22:58:52
+0	23:26:19.800	MyNews EA 3 USDCHF,H1: 0.00-0.800000021
+0	23:26:30.854	MyNews EA 3 USDCHF,H1: http://localhost:50686/API/PostTradesEA?KEY=TempKey123&Usr=168&EA=1&PR=-0.80000&AT=1
+0	23:26:31.476	MyNews EA 3 USDCHF,H1: -4.69 \\ 2019.08.28 00:41:10
+0	23:26:31.476	MyNews EA 3 USDCHF,H1: 0.00-4.690000021
+0	23:26:32.623	MyNews EA 3 USDCHF,H1: http://localhost:50686/API/PostTradesEA?KEY=TempKey123&Usr=168&EA=1&PR=-4.69000&AT=1
+0	23:26:33.458	MyNews EA 3 USDCHF,H1: http://divergencefx.gear.host/API/PingFromEA?KEY=TempKey123&ID_User=168&Bname=JAFX Ltd.&Baccount=2101299537
+0	23:26:34.084	MyNews EA 3 USDCHF,H1: initialized
+0	23:27:42.674	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	23:27:42.684	Expert MyNews EA 3 USDCHF,H1: removed
+0	23:27:59.380	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	23:28:01.244	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	23:28:06.949	MyNews EA 3 USDCHF,H1: -0.8 \\ 2019.08.27 22:58:52
+0	23:28:06.949	MyNews EA 3 USDCHF,H1: 0.00-0.800000021
+0	23:28:08.679	MyNews EA 3 USDCHF,H1: http://localhost:50686/API/PostTradesEA?KEY=TempKey123&Usr=168&EA=1&PR=-0.80000&AT=1
+0	23:28:09.476	MyNews EA 3 USDCHF,H1: -4.69 \\ 2019.08.28 00:41:10
+0	23:28:09.476	MyNews EA 3 USDCHF,H1: 0.00-4.690000021
+0	23:28:10.651	MyNews EA 3 USDCHF,H1: http://localhost:50686/API/PostTradesEA?KEY=TempKey123&Usr=168&EA=1&PR=-4.69000&AT=1
+0	23:28:11.775	MyNews EA 3 USDCHF,H1: http://divergencefx.gear.host/API/PingFromEA?KEY=TempKey123&ID_User=168&Bname=JAFX Ltd.&Baccount=2101299537
+0	23:28:12.550	MyNews EA 3 USDCHF,H1: initialized
+0	23:34:59.115	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	23:34:59.145	Expert MyNews EA 3 USDCHF,H1: removed
+0	23:35:01.413	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	23:35:03.507	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	23:35:15.239	MyNews EA 3 USDCHF,H1: -0.8 \\ 2019.08.27 22:58:52
+0	23:35:15.239	MyNews EA 3 USDCHF,H1: 0.00-0.800000021
+0	23:35:22.530	MyNews EA 3 USDCHF,H1: http://localhost:50686/API/PostTradesEA?KEY=TempKey123&Usr=168&EA=1&PR=-0.80000&AT=1
+0	23:35:33.792	MyNews EA 3 USDCHF,H1: -4.69 \\ 2019.08.28 00:41:10
+0	23:35:33.792	MyNews EA 3 USDCHF,H1: 0.00-4.690000021
+0	23:35:40.142	MyNews EA 3 USDCHF,H1: http://localhost:50686/API/PostTradesEA?KEY=TempKey123&Usr=168&EA=1&PR=-4.69000&AT=1
+0	23:35:42.720	MyNews EA 3 USDCHF,H1: http://divergencefx.gear.host/API/PingFromEA?KEY=TempKey123&ID_User=168&Bname=JAFX Ltd.&Baccount=2101299537
+0	23:35:43.710	MyNews EA 3 USDCHF,H1: initialized
+0	23:35:58.660	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	23:35:58.673	Expert MyNews EA 3 USDCHF,H1: removed
+0	23:35:59.654	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	23:36:01.160	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+1	23:36:51.122	MyNews EA 3 USDCHF,H1: debugging terminated
+3	23:36:51.153	MyNews EA 3 USDCHF,H1: not initialized
+0	23:36:51.154	MyNews EA 3 USDCHF,H1: uninit reason 8
+0	23:36:51.198	Expert MyNews EA 3 USDCHF,H1: removed
+0	23:36:53.726	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	23:36:55.001	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	23:36:59.956	MyNews EA 3 USDCHF,H1: initialized
+0	23:38:05.678	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	23:38:05.697	Expert MyNews EA 3 USDCHF,H1: removed
+0	23:39:08.626	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	23:39:09.916	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	23:39:13.525	MyNews EA 3 USDCHF,H1: initialized
+0	23:39:48.618	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	23:39:48.656	Expert MyNews EA 3 USDCHF,H1: removed
+0	23:39:51.939	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	23:39:53.459	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	23:40:01.258	MyNews EA 3 USDCHF,H1: initialized
+0	23:40:30.793	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	23:40:30.827	Expert MyNews EA 3 USDCHF,H1: removed
+0	23:40:31.887	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	23:40:33.261	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	23:40:38.527	MyNews EA 3 USDCHF,H1: initialized
+0	23:41:51.506	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	23:41:51.536	Expert MyNews EA 3 USDCHF,H1: removed
+0	23:41:52.777	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	23:41:54.589	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	23:41:56.927	MyNews EA 3 USDCHF,H1: initialized
+0	23:42:08.376	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	23:42:08.396	Expert MyNews EA 3 USDCHF,H1: removed
+0	23:42:13.141	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	23:42:14.502	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	23:42:14.903	MyNews EA 3 USDCHF,H1: initialized
+0	23:44:32.389	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	23:44:32.401	Expert MyNews EA 3 USDCHF,H1: removed
+0	23:45:45.541	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	23:45:47.260	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	23:45:48.039	MyNews EA 3 USDCHF,H1: -0.8 \\ 2019.08.27 22:58:52
+0	23:45:48.039	MyNews EA 3 USDCHF,H1: 0.00-0.800000021
+0	23:45:49.720	MyNews EA 3 USDCHF,H1: -4.69 \\ 2019.08.28 00:41:10
+0	23:45:49.720	MyNews EA 3 USDCHF,H1: 0.00-4.690000021
+0	23:45:51.128	MyNews EA 3 USDCHF,H1: http://divergencefx.gear.host/API/PingFromEA?KEY=TempKey123&ID_User=168&Bname=JAFX Ltd.&Baccount=2101299537
+0	23:45:52.562	MyNews EA 3 USDCHF,H1: initialized
+0	23:46:14.022	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	23:46:14.056	Expert MyNews EA 3 USDCHF,H1: removed
+0	23:46:16.830	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	23:46:18.381	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	23:46:19.051	MyNews EA 3 USDCHF,H1: -0.8 \\ 2019.08.27 22:58:52
+0	23:46:19.051	MyNews EA 3 USDCHF,H1: 0.00-0.800000021
+0	23:46:21.112	MyNews EA 3 USDCHF,H1: -4.69 \\ 2019.08.28 00:41:10
+0	23:46:21.112	MyNews EA 3 USDCHF,H1: 0.00-4.690000021
+0	23:46:23.251	MyNews EA 3 USDCHF,H1: http://divergencefx.gear.host/API/PingFromEA?KEY=TempKey123&ID_User=168&Bname=JAFX Ltd.&Baccount=2101299537
+0	23:46:24.667	MyNews EA 3 USDCHF,H1: initialized

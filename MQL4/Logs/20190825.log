@@ -1,0 +1,37 @@
+0	17:52:43.215	Custom indicator GHL EURUSD,H4: loaded successfully
+0	17:52:43.239	Custom indicator QTI EURUSD,H4: loaded successfully
+0	17:52:43.242	GHL EURUSD,H4: initialized
+0	17:52:43.242	QTI EURUSD,H4: initialized
+0	17:55:48.592	GHL EURUSD,H4: deinitialized
+0	17:55:48.592	GHL EURUSD,H4: uninit reason 9
+0	17:55:48.592	QTI EURUSD,H4: deinitialized
+0	17:55:48.592	QTI EURUSD,H4: uninit reason 9
+0	17:55:48.595	Renko Bricks US30,M1: uninit reason 9
+0	17:55:48.666	GHL US30,H1: deinitialized
+0	17:55:48.666	GHL US30,H1: uninit reason 9
+0	17:55:48.666	QTI US30,H1: deinitialized
+0	17:55:48.666	QTI US30,H1: uninit reason 9
+0	17:55:48.668	trendpowervisual BTCUSD,Daily: deinitialized
+0	17:55:48.668	trendpowervisual BTCUSD,Daily: uninit reason 9
+0	17:55:48.668	Fibonacci Pivots THV BTCUSD,Daily: deinitialized
+0	17:55:48.668	Fibonacci Pivots THV BTCUSD,Daily: uninit reason 9
+0	17:55:48.669	FerruFx_Multi_info THV(2) BTCUSD,Daily: deinitialized
+0	17:55:48.669	FerruFx_Multi_info THV(2) BTCUSD,Daily: uninit reason 9
+0	17:55:48.731	channel-signal BTCUSD,Daily: uninit reason 9
+0	17:55:48.731	trendpowercurve BTCUSD,Daily: uninit reason 9
+0	17:55:48.731	GHL GER30,H4: deinitialized
+0	17:55:48.731	GHL GER30,H4: uninit reason 9
+0	17:55:48.731	QTI GER30,H4: deinitialized
+0	17:55:48.731	QTI GER30,H4: uninit reason 9
+0	17:55:48.995	Custom indicator GHL EURUSD,H4: removed
+0	17:55:48.999	Custom indicator QTI EURUSD,H4: removed
+0	17:55:49.022	Custom indicator Renko Bricks US30,M1: removed
+0	17:55:49.053	Custom indicator GHL US30,H1: removed
+0	17:55:49.053	Custom indicator QTI US30,H1: removed
+0	17:55:49.059	Custom indicator trendpowervisual BTCUSD,Daily: removed
+0	17:55:49.059	Custom indicator Fibonacci Pivots THV BTCUSD,Daily: removed
+0	17:55:49.059	Custom indicator FerruFx_Multi_info THV(2) BTCUSD,Daily: removed
+0	17:55:49.059	Custom indicator channel-signal BTCUSD,Daily: removed
+0	17:55:49.062	Custom indicator trendpowercurve BTCUSD,Daily: removed
+0	17:55:49.072	Custom indicator GHL GER30,H4: removed
+0	17:55:49.072	Custom indicator QTI GER30,H4: removed

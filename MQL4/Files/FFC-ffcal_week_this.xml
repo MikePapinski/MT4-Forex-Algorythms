@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<weeklyevents>
+	<event>
+		<title>Retail Sales y/y</title>
+		<country>JPY</country>
+		<date><![CDATA[10-28-2018]]></date>
+		<time><![CDATA[11:50pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[2.1%]]></forecast>
+		<previous><![CDATA[2.7%]]></previous>
+	</event>
+	<event>
+		<title>HIA New Home Sales m/m</title>
+		<country>AUD</country>
+		<date><![CDATA[10-29-2018]]></date>
+		<time><![CDATA[4:20am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[-2.9%]]></previous>
+	</event>
+	<event>
+		<title>Net Lending to Individuals m/m</title>
+		<country>GBP</country>
+		<date><![CDATA[10-29-2018]]></date>
+		<time><![CDATA[9:30am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[4.1B]]></forecast>
+		<previous><![CDATA[4.0B]]></previous>
+	</event>
+	<event>
+		<title>M4 Money Supply m/m</title>
+		<country>GBP</country>
+		<date><![CDATA[10-29-2018]]></date>
+		<time><![CDATA[9:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.3%]]></forecast>
+		<previous><![CDATA[0.2%]]></previous>
+	</event>
+	<event>
+		<title>Mortgage Approvals</title>
+		<country>GBP</country>
+		<date><![CDATA[10-29-2018]]></date>
+		<time><![CDATA[9:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[65K]]></forecast>
+		<previous><![CDATA[66K]]></previous>
+	</event>
+	<event>
+		<title>Personal Income m/m</title>
+		<country>USD</country>
+		<date><![CDATA[10-29-2018]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.4%]]></forecast>
+		<previous><![CDATA[0.3%]]></previous>
+	</event>
+	<event>
+		<title>Personal Spending m/m</title>
+		<country>USD</country>
+		<date><![CDATA[10-29-2018]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[0.4%]]></forecast>
+		<previous><![CDATA[0.3%]]></previous>
+	</event>
+	<event>
+		<title>Core PCE Price Index m/m</title>
+		<country>USD</country>
+		<date><![CDATA[10-29-2018]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[0.1%]]></forecast>
+		<previous><![CDATA[0.0%]]></previous>
+	</event>
+	<event>
+		<title>Autumn Forecast Statement</title>
+		<country>GBP</country>
+		<date><![CDATA[10-29-2018]]></date>
+		<time><![CDATA[3:25pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<country>JPY</country>
+		<date><![CDATA[10-29-2018]]></date>
+		<time><![CDATA[11:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[2.4%]]></forecast>
+		<previous><![CDATA[2.4%]]></previous>
+	</event>
+	<event>
+		<title>Building Approvals m/m</title>
+		<country>AUD</country>
+		<date><![CDATA[10-30-2018]]></date>
+		<time><![CDATA[12:30am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[3.9%]]></forecast>
+		<previous><![CDATA[-9.4%]]></previous>
+	</event>
+	<event>
+		<title>RBA Assist Gov Bullock Speaks</title>
+		<country>AUD</country>
+		<date><![CDATA[10-30-2018]]></date>
+		<time><![CDATA[2:10am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>French Flash GDP q/q</title>
+		<country>EUR</country>
+		<date><![CDATA[10-30-2018]]></date>
+		<time><![CDATA[6:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.4%]]></forecast>
+		<previous><![CDATA[0.2%]]></previous>
+	</event>
+	<event>
+		<title>German Prelim CPI m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[10-30-2018]]></date>
+		<time><![CDATA[7:29am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[0.1%]]></forecast>
+		<previous><![CDATA[0.4%]]></previous>
+	</event>
+	<event>
+		<title>French Consumer Spending m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[10-30-2018]]></date>
+		<time><![CDATA[7:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-0.4%]]></forecast>
+		<previous><![CDATA[0.8%]]></previous>
+	</event>
+	<event>
+		<title>Spanish Flash CPI y/y</title>
+		<country>EUR</country>
+		<date><![CDATA[10-30-2018]]></date>
+		<time><![CDATA[8:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[2.3%]]></forecast>
+		<previous><![CDATA[2.2%]]></previous>
+	</event>
+	<event>
+		<title>KOF Economic Barometer</title>
+		<country>CHF</country>
+		<date><![CDATA[10-30-2018]]></date>
+		<time><![CDATA[8:00am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[100.8]]></forecast>
+		<previous><![CDATA[102.2]]></previous>
+	</event>
+	<event>
+		<title>German Unemployment Change</title>
+		<country>EUR</country>
+		<date><![CDATA[10-30-2018]]></date>
+		<time><![CDATA[8:55am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-12K]]></forecast>
+		<previous><![CDATA[-23K]]></previous>
+	</event>
+	<event>
+		<title>Italian Prelim GDP q/q</title>
+		<country>EUR</country>
+		<date><![CDATA[10-30-2018]]></date>
+		<time><![CDATA[9:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.2%]]></forecast>
+		<previous><![CDATA[0.2%]]></previous>
+	</event>
+	<event>
+		<title>Prelim Flash GDP q/q</title>
+		<country>EUR</country>
+		<date><![CDATA[10-30-2018]]></date>
+		<time><![CDATA[10:00am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[0.4%]]></forecast>
+		<previous><![CDATA[0.3%]]></previous>
+	</event>
+	<event>
+		<title>Italian 10-y Bond Auction</title>
+		<country>EUR</country>
+		<date><![CDATA[10-30-2018]]></date>
+		<time><![CDATA[10:14am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[2.90|1.4]]></previous>
+	</event>
+	<event>
+		<title>CBI Realized Sales</title>
+		<country>GBP</country>
+		<date><![CDATA[10-30-2018]]></date>
+		<time><![CDATA[11:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[27]]></forecast>
+		<previous><![CDATA[23]]></previous>
+	</event>
+	<event>
+		<title><![CDATA[S&P/CS Composite-20 HPI y/y]]></title>
+		<country>USD</country>
+		<date><![CDATA[10-30-2018]]></date>
+		<time><![CDATA[1:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[6.0%]]></forecast>
+		<previous><![CDATA[5.9%]]></previous>
+	</event>
+	<event>
+		<title>CB Consumer Confidence</title>
+		<country>USD</country>
+		<date><![CDATA[10-30-2018]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[136.3]]></forecast>
+		<previous><![CDATA[138.4]]></previous>
+	</event>
+	<event>
+		<title>BOC Gov Poloz Speaks</title>
+		<country>CAD</country>
+		<date><![CDATA[10-30-2018]]></date>
+		<time><![CDATA[7:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Building Consents m/m</title>
+		<country>NZD</country>
+		<date><![CDATA[10-30-2018]]></date>
+		<time><![CDATA[9:45pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[7.8%]]></previous>
+	</event>
+	<event>
+		<title>Prelim Industrial Production m/m</title>
+		<country>JPY</country>
+		<date><![CDATA[10-30-2018]]></date>
+		<time><![CDATA[11:50pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-0.3%]]></forecast>
+		<previous><![CDATA[0.7%]]></previous>
+	</event>
+	<event>
+		<title>GfK Consumer Confidence</title>
+		<country>GBP</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[12:01am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-10]]></forecast>
+		<previous><![CDATA[-9]]></previous>
+	</event>
+	<event>
+		<title>BRC Shop Price Index y/y</title>
+		<country>GBP</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[12:01am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[0.2%]]></previous>
+	</event>
+	<event>
+		<title>Private Sector Credit m/m</title>
+		<country>AUD</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[12:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.4%]]></forecast>
+		<previous><![CDATA[0.5%]]></previous>
+	</event>
+	<event>
+		<title>CPI q/q</title>
+		<country>AUD</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[12:30am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[0.5%]]></forecast>
+		<previous><![CDATA[0.4%]]></previous>
+	</event>
+	<event>
+		<title>Trimmed Mean CPI q/q</title>
+		<country>AUD</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[12:30am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[0.4%]]></forecast>
+		<previous><![CDATA[0.5%]]></previous>
+	</event>
+	<event>
+		<title>Manufacturing PMI</title>
+		<country>CNY</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[1:00am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[50.6]]></forecast>
+		<previous><![CDATA[50.8]]></previous>
+	</event>
+	<event>
+		<title>Non-Manufacturing PMI</title>
+		<country>CNY</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[1:00am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[54.7]]></forecast>
+		<previous><![CDATA[54.9]]></previous>
+	</event>
+	<event>
+		<title>BOJ Policy Rate</title>
+		<country>JPY</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[3:50am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[-0.10%]]></forecast>
+		<previous><![CDATA[-0.10%]]></previous>
+	</event>
+	<event>
+		<title>Monetary Policy Statement</title>
+		<country>JPY</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[3:50am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>BOJ Outlook Report</title>
+		<country>JPY</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[3:55am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Consumer Confidence</title>
+		<country>JPY</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[5:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[43.5]]></forecast>
+		<previous><![CDATA[43.4]]></previous>
+	</event>
+	<event>
+		<title>Housing Starts y/y</title>
+		<country>JPY</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[5:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-0.7%]]></forecast>
+		<previous><![CDATA[1.6%]]></previous>
+	</event>
+	<event>
+		<title>BOJ Press Conference</title>
+		<country>JPY</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[6:30am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>German Retail Sales m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[7:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.5%]]></forecast>
+		<previous><![CDATA[-0.1%]]></previous>
+	</event>
+	<event>
+		<title>French Prelim CPI m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[7:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.1%]]></forecast>
+		<previous><![CDATA[-0.2%]]></previous>
+	</event>
+	<event>
+		<title>Spanish Flash GDP q/q</title>
+		<country>EUR</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[8:00am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[0.6%]]></forecast>
+		<previous><![CDATA[0.6%]]></previous>
+	</event>
+	<event>
+		<title>Italian Monthly Unemployment Rate</title>
+		<country>EUR</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[9:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[9.9%]]></forecast>
+		<previous><![CDATA[9.7%]]></previous>
+	</event>
+	<event>
+		<title>Credit Suisse Economic Expectations</title>
+		<country>CHF</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[9:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[-30.8]]></previous>
+	</event>
+	<event>
+		<title>Italian Prelim CPI m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[10:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.2%]]></forecast>
+		<previous><![CDATA[-0.4%]]></previous>
+	</event>
+	<event>
+		<title>Core CPI Flash Estimate y/y</title>
+		<country>EUR</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[10:00am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[1.1%]]></forecast>
+		<previous><![CDATA[0.9%]]></previous>
+	</event>
+	<event>
+		<title>CPI Flash Estimate y/y</title>
+		<country>EUR</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[10:00am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[2.2%]]></forecast>
+		<previous><![CDATA[2.1%]]></previous>
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<country>EUR</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[10:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[8.1%]]></forecast>
+		<previous><![CDATA[8.1%]]></previous>
+	</event>
+	<event>
+		<title>ADP Non-Farm Employment Change</title>
+		<country>USD</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[12:15pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[188K]]></forecast>
+		<previous><![CDATA[230K]]></previous>
+	</event>
+	<event>
+		<title>Employment Cost Index q/q</title>
+		<country>USD</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[0.7%]]></forecast>
+		<previous><![CDATA[0.6%]]></previous>
+	</event>
+	<event>
+		<title>GDP m/m</title>
+		<country>CAD</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[0.0%]]></forecast>
+		<previous><![CDATA[0.2%]]></previous>
+	</event>
+	<event>
+		<title>IPPI m/m</title>
+		<country>CAD</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.0%]]></forecast>
+		<previous><![CDATA[-0.5%]]></previous>
+	</event>
+	<event>
+		<title>RMPI m/m</title>
+		<country>CAD</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[-0.5%]]></forecast>
+		<previous><![CDATA[-4.6%]]></previous>
+	</event>
+	<event>
+		<title>Chicago PMI</title>
+		<country>USD</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[1:45pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[60.1]]></forecast>
+		<previous><![CDATA[60.4]]></previous>
+	</event>
+	<event>
+		<title>Crude Oil Inventories</title>
+		<country>USD</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[2:30pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[3.6M]]></forecast>
+		<previous><![CDATA[6.3M]]></previous>
+	</event>
+	<event>
+		<title>SNB Chairman Jordan Speaks</title>
+		<country>CHF</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[5:15pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>BOC Gov Poloz Speaks</title>
+		<country>CAD</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[8:15pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>AIG Manufacturing Index</title>
+		<country>AUD</country>
+		<date><![CDATA[10-31-2018]]></date>
+		<time><![CDATA[9:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[59.0]]></previous>
+	</event>
+	<event>
+		<title>Trade Balance</title>
+		<country>AUD</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[12:30am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[1.71B]]></forecast>
+		<previous><![CDATA[1.60B]]></previous>
+	</event>
+	<event>
+		<title>Import Prices q/q</title>
+		<country>AUD</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[12:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[1.1%]]></forecast>
+		<previous><![CDATA[3.2%]]></previous>
+	</event>
+	<event>
+		<title>Final Manufacturing PMI</title>
+		<country>JPY</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[12:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[53.1]]></forecast>
+		<previous><![CDATA[53.1]]></previous>
+	</event>
+	<event>
+		<title>Caixin Manufacturing PMI</title>
+		<country>CNY</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[1:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[49.9]]></forecast>
+		<previous><![CDATA[50.0]]></previous>
+	</event>
+	<event>
+		<title>10-y Bond Auction</title>
+		<country>JPY</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[3:35am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[0.14|4.2]]></previous>
+	</event>
+	<event>
+		<title>Commodity Prices y/y</title>
+		<country>AUD</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[5:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[4.8%]]></previous>
+	</event>
+	<event>
+		<title>SECO Consumer Climate</title>
+		<country>CHF</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[6:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-8]]></forecast>
+		<previous><![CDATA[-7]]></previous>
+	</event>
+	<event>
+		<title>Nationwide HPI m/m</title>
+		<country>GBP</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[7:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.2%]]></forecast>
+		<previous><![CDATA[0.3%]]></previous>
+	</event>
+	<event>
+		<title>French Bank Holiday</title>
+		<country>EUR</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[7:01am]]></time>
+		<impact><![CDATA[Holiday]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Italian Bank Holiday</title>
+		<country>EUR</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[7:03am]]></time>
+		<impact><![CDATA[Holiday]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>CPI m/m</title>
+		<country>CHF</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[8:15am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.2%]]></forecast>
+		<previous><![CDATA[0.1%]]></previous>
+	</event>
+	<event>
+		<title>Manufacturing PMI</title>
+		<country>CHF</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[8:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[58.6]]></forecast>
+		<previous><![CDATA[59.7]]></previous>
+	</event>
+	<event>
+		<title>Manufacturing PMI</title>
+		<country>GBP</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[9:30am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[53.0]]></forecast>
+		<previous><![CDATA[53.8]]></previous>
+	</event>
+	<event>
+		<title>Challenger Job Cuts y/y</title>
+		<country>USD</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[11:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[70.9%]]></previous>
+	</event>
+	<event>
+		<title>Asset Purchase Facility</title>
+		<country>GBP</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[12:00pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[435B]]></forecast>
+		<previous><![CDATA[435B]]></previous>
+	</event>
+	<event>
+		<title>BOE Inflation Report</title>
+		<country>GBP</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[12:00pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Monetary Policy Summary</title>
+		<country>GBP</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[12:00pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>MPC Official Bank Rate Votes</title>
+		<country>GBP</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[12:00pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[0-0-9]]></forecast>
+		<previous><![CDATA[0-0-9]]></previous>
+	</event>
+	<event>
+		<title>MPC Asset Purchase Facility Votes</title>
+		<country>GBP</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[12:00pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[0-0-9]]></forecast>
+		<previous><![CDATA[0-0-9]]></previous>
+	</event>
+	<event>
+		<title>Official Bank Rate</title>
+		<country>GBP</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[12:00pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[0.75%]]></forecast>
+		<previous><![CDATA[0.75%]]></previous>
+	</event>
+	<event>
+		<title>Unemployment Claims</title>
+		<country>USD</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[213K]]></forecast>
+		<previous><![CDATA[215K]]></previous>
+	</event>
+	<event>
+		<title>Prelim Nonfarm Productivity q/q</title>
+		<country>USD</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[2.2%]]></forecast>
+		<previous><![CDATA[2.9%]]></previous>
+	</event>
+	<event>
+		<title>Prelim Unit Labor Costs q/q</title>
+		<country>USD</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[1.1%]]></forecast>
+		<previous><![CDATA[-0.9%]]></previous>
+	</event>
+	<event>
+		<title>BOE Gov Carney Speaks</title>
+		<country>GBP</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Manufacturing PMI</title>
+		<country>CAD</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[1:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[54.8]]></previous>
+	</event>
+	<event>
+		<title>Final Manufacturing PMI</title>
+		<country>USD</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[1:45pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[55.9]]></forecast>
+		<previous><![CDATA[55.9]]></previous>
+	</event>
+	<event>
+		<title>ISM Manufacturing PMI</title>
+		<country>USD</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[59.0]]></forecast>
+		<previous><![CDATA[59.8]]></previous>
+	</event>
+	<event>
+		<title>ISM Manufacturing Prices</title>
+		<country>USD</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[67.5]]></forecast>
+		<previous><![CDATA[66.9]]></previous>
+	</event>
+	<event>
+		<title>Construction Spending m/m</title>
+		<country>USD</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.2%]]></forecast>
+		<previous><![CDATA[0.1%]]></previous>
+	</event>
+	<event>
+		<title>Natural Gas Storage</title>
+		<country>USD</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[2:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[53B]]></forecast>
+		<previous><![CDATA[58B]]></previous>
+	</event>
+	<event>
+		<title>Total Vehicle Sales</title>
+		<country>USD</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[3:15pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[17.1M]]></forecast>
+		<previous><![CDATA[17.4M]]></previous>
+	</event>
+	<event>
+		<title>Monetary Base y/y</title>
+		<country>JPY</country>
+		<date><![CDATA[11-01-2018]]></date>
+		<time><![CDATA[11:50pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[6.2%]]></forecast>
+		<previous><![CDATA[5.9%]]></previous>
+	</event>
+	<event>
+		<title>ANZ Business Confidence</title>
+		<country>NZD</country>
+		<date><![CDATA[11-02-2018]]></date>
+		<time><![CDATA[12:00am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous><![CDATA[-38.3]]></previous>
+	</event>
+	<event>
+		<title>Retail Sales m/m</title>
+		<country>AUD</country>
+		<date><![CDATA[11-02-2018]]></date>
+		<time><![CDATA[12:30am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[0.3%]]></forecast>
+		<previous><![CDATA[0.3%]]></previous>
+	</event>
+	<event>
+		<title>PPI q/q</title>
+		<country>AUD</country>
+		<date><![CDATA[11-02-2018]]></date>
+		<time><![CDATA[12:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.2%]]></forecast>
+		<previous><![CDATA[0.3%]]></previous>
+	</event>
+	<event>
+		<title>German Import Prices m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[11-02-2018]]></date>
+		<time><![CDATA[7:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.4%]]></forecast>
+		<previous><![CDATA[0.0%]]></previous>
+	</event>
+	<event>
+		<title>French Gov Budget Balance</title>
+		<country>EUR</country>
+		<date><![CDATA[11-02-2018]]></date>
+		<time><![CDATA[7:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[-97.3B]]></previous>
+	</event>
+	<event>
+		<title>Spanish Manufacturing PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[11-02-2018]]></date>
+		<time><![CDATA[8:15am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[51.0]]></forecast>
+		<previous><![CDATA[51.4]]></previous>
+	</event>
+	<event>
+		<title>Retail Sales y/y</title>
+		<country>CHF</country>
+		<date><![CDATA[11-02-2018]]></date>
+		<time><![CDATA[8:15am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-0.2%]]></forecast>
+		<previous><![CDATA[0.4%]]></previous>
+	</event>
+	<event>
+		<title>Italian Manufacturing PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[11-02-2018]]></date>
+		<time><![CDATA[8:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[49.7]]></forecast>
+		<previous><![CDATA[50.0]]></previous>
+	</event>
+	<event>
+		<title>French Final Manufacturing PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[11-02-2018]]></date>
+		<time><![CDATA[8:50am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[51.2]]></forecast>
+		<previous><![CDATA[51.2]]></previous>
+	</event>
+	<event>
+		<title>German Final Manufacturing PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[11-02-2018]]></date>
+		<time><![CDATA[8:55am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[52.3]]></forecast>
+		<previous><![CDATA[52.3]]></previous>
+	</event>
+	<event>
+		<title>Final Manufacturing PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[11-02-2018]]></date>
+		<time><![CDATA[9:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[52.1]]></forecast>
+		<previous><![CDATA[52.1]]></previous>
+	</event>
+	<event>
+		<title>Construction PMI</title>
+		<country>GBP</country>
+		<date><![CDATA[11-02-2018]]></date>
+		<time><![CDATA[9:30am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[52.0]]></forecast>
+		<previous><![CDATA[52.1]]></previous>
+	</event>
+	<event>
+		<title>Average Hourly Earnings m/m</title>
+		<country>USD</country>
+		<date><![CDATA[11-02-2018]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[0.2%]]></forecast>
+		<previous><![CDATA[0.3%]]></previous>
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<country>USD</country>
+		<date><![CDATA[11-02-2018]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[3.7%]]></forecast>
+		<previous><![CDATA[3.7%]]></previous>
+	</event>
+	<event>
+		<title>Non-Farm Employment Change</title>
+		<country>USD</country>
+		<date><![CDATA[11-02-2018]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[193K]]></forecast>
+		<previous><![CDATA[134K]]></previous>
+	</event>
+	<event>
+		<title>Trade Balance</title>
+		<country>USD</country>
+		<date><![CDATA[11-02-2018]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-53.5B]]></forecast>
+		<previous><![CDATA[-53.2B]]></previous>
+	</event>
+	<event>
+		<title>Trade Balance</title>
+		<country>CAD</country>
+		<date><![CDATA[11-02-2018]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[0.2B]]></forecast>
+		<previous><![CDATA[0.5B]]></previous>
+	</event>
+	<event>
+		<title>Employment Change</title>
+		<country>CAD</country>
+		<date><![CDATA[11-02-2018]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[12.7K]]></forecast>
+		<previous><![CDATA[63.3K]]></previous>
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<country>CAD</country>
+		<date><![CDATA[11-02-2018]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[5.9%]]></forecast>
+		<previous><![CDATA[5.9%]]></previous>
+	</event>
+	<event>
+		<title>Factory Orders m/m</title>
+		<country>USD</country>
+		<date><![CDATA[11-02-2018]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.5%]]></forecast>
+		<previous><![CDATA[2.3%]]></previous>
+	</event>
+</weeklyevents>

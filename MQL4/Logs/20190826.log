@@ -1,0 +1,91 @@
+0	21:34:08.449	Custom indicator GHL EURUSD,H4: loaded successfully
+0	21:34:08.463	Custom indicator QTI EURUSD,H4: loaded successfully
+0	21:34:08.502	GHL EURUSD,H4: initialized
+0	21:34:08.502	QTI EURUSD,H4: initialized
+0	21:34:08.687	Custom indicator Market\Renko Bricks US30,M1: loaded successfully
+0	21:34:08.763	Renko Bricks US30,M1: initialized
+0	21:34:08.916	Custom indicator GHL US30,H1: loaded successfully
+0	21:34:08.933	Custom indicator QTI US30,H1: loaded successfully
+0	21:34:08.946	GHL US30,H1: initialized
+0	21:34:08.946	QTI US30,H1: initialized
+0	21:34:09.093	Custom indicator trendpowervisual BTCUSD,Daily: loaded successfully
+0	21:34:09.202	Custom indicator Fibonacci Pivots THV BTCUSD,Daily: loaded successfully
+0	21:34:09.317	Custom indicator FerruFx_Multi_info THV(2) BTCUSD,Daily: loaded successfully
+0	21:34:09.426	Custom indicator channel-signal BTCUSD,Daily: loaded successfully
+0	21:34:09.443	Custom indicator trendpowercurve BTCUSD,Daily: loaded successfully
+0	21:34:09.458	trendpowervisual BTCUSD,Daily: initialized
+0	21:34:09.458	Fibonacci Pivots THV BTCUSD,Daily: initialized
+0	21:34:09.458	FerruFx_Multi_info THV(2) BTCUSD,Daily: initialized
+0	21:34:09.458	channel-signal BTCUSD,Daily: initialized
+0	21:34:09.481	trendpowercurve BTCUSD,Daily: initialized
+0	21:34:09.901	Custom indicator GHL GER30,H4: loaded successfully
+0	21:34:09.920	Custom indicator QTI GER30,H4: loaded successfully
+0	21:34:09.933	GHL GER30,H4: initialized
+0	21:34:09.933	QTI GER30,H4: initialized
+0	22:49:25.332	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	22:49:30.679	MyNews EA 3 USDCHF,H1 inputs: Username=Jpapin; Password=Password; 
+0	22:49:30.709	MyNews EA 3 USDCHF,H1: Error in WebRequest. Error code  =4060
+0	22:49:43.154	MyNews EA 3 USDCHF,H1: initialized
+0	22:50:23.502	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	22:50:23.511	Expert MyNews EA 3 USDCHF,H1: removed
+0	22:50:25.217	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	22:50:35.041	MyNews EA 3 USDCHF,H1 inputs: Username=Jpapin; Password=Password; 
+0	22:50:35.066	MyNews EA 3 USDCHF,H1: Error in WebRequest. Error code  =4060
+0	22:50:37.284	MyNews EA 3 USDCHF,H1: initialized
+0	22:51:31.972	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	22:51:31.981	Expert MyNews EA 3 USDCHF,H1: removed
+0	22:51:34.214	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	22:51:36.060	MyNews EA 3 USDCHF,H1 inputs: Username=Jpapin; Password=Password; 
+0	22:51:36.088	MyNews EA 3 USDCHF,H1: Error in WebRequest. Error code  =4060
+0	22:51:49.367	MyNews EA 3 USDCHF,H1: initialized
+0	22:53:47.945	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	22:53:47.958	Expert MyNews EA 3 USDCHF,H1: removed
+0	22:53:49.141	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	22:53:50.683	MyNews EA 3 USDCHF,H1 inputs: Username=Jpapin; Password=Password; 
+0	22:53:51.363	MyNews EA 3 USDCHF,H1: The file has been successfully loaded, File size =31 bytes.
+0	22:53:51.364	MyNews EA 3 USDCHF,H1: Alert: 25.09.2019.08.30/FOMC Statement
+0	22:53:51.364	MyNews EA 3 USDCHF,H1: initialized
+0	22:55:03.278	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	22:55:03.292	Expert MyNews EA 3 USDCHF,H1: removed
+0	22:55:04.376	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	22:55:06.297	MyNews EA 3 USDCHF,H1 inputs: Username=Jpapin; Password=Password; 
+0	22:55:06.797	MyNews EA 3 USDCHF,H1: The file has been successfully loaded, File size =31 bytes.
+0	22:55:06.797	MyNews EA 3 USDCHF,H1: Alert: 25.09.2019.08.30/FOMC Statement
+0	22:55:06.797	MyNews EA 3 USDCHF,H1: initialized
+0	23:10:12.179	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	23:10:12.191	Expert MyNews EA 3 USDCHF,H1: removed
+0	23:15:36.729	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	23:15:38.181	MyNews EA 3 USDCHF,H1 inputs: Username=Jpapin; Password=Password; 
+0	23:15:46.108	MyNews EA 3 USDCHF,H1: initialized
+0	23:15:54.306	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	23:15:54.319	Expert MyNews EA 3 USDCHF,H1: removed
+0	23:16:09.823	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	23:16:11.628	MyNews EA 3 USDCHF,H1 inputs: Username=Jpapin; Password=Password; 
+0	23:16:13.992	MyNews EA 3 USDCHF,H1: initialized
+0	23:17:13.909	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	23:17:13.921	Expert MyNews EA 3 USDCHF,H1: removed
+0	23:17:16.501	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	23:17:17.893	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	23:17:22.208	MyNews EA 3 USDCHF,H1: initialized
+0	23:17:56.969	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	23:17:56.981	Expert MyNews EA 3 USDCHF,H1: removed
+0	23:18:07.263	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	23:18:08.575	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	23:18:28.032	MyNews EA 3 USDCHF,H1: initialized
+0	23:30:30.455	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	23:30:30.469	Expert MyNews EA 3 USDCHF,H1: removed
+0	23:44:40.806	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	23:44:42.351	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	23:44:52.282	MyNews EA 3 USDCHF,H1: initialized
+0	23:45:33.456	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	23:45:33.489	Expert MyNews EA 3 USDCHF,H1: removed
+0	23:45:36.080	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	23:45:37.273	MyNews EA 3 USDCHF,H1 inputs: Username=Majki; Password=Majki; 
+0	23:45:37.881	MyNews EA 3 USDCHF,H1: initialized
+0	23:45:43.879	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	23:45:43.889	Expert MyNews EA 3 USDCHF,H1: removed
+0	23:45:45.135	Expert MyNews EA 2\MyNews EA 3 USDCHF,H1: loaded successfully
+0	23:45:52.104	MyNews EA 3 USDCHF,H1 inputs: Username=Majkij; Password=Majki; 
+0	23:45:54.316	MyNews EA 3 USDCHF,H1: initialized
+0	23:45:58.381	MyNews EA 3 USDCHF,H1: uninit reason 4
+0	23:45:58.398	Expert MyNews EA 3 USDCHF,H1: removed

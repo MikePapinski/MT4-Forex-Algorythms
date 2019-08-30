@@ -1,0 +1,21 @@
+0	06:22:38.543	Custom indicator Market\Renko Bricks US30,M1: loaded successfully
+0	06:22:38.642	Renko Bricks US30,M1: initialized
+0	06:22:38.793	Custom indicator GHL US30,H1: loaded successfully
+0	06:22:38.805	Custom indicator QTI US30,H1: loaded successfully
+0	06:22:38.816	GHL US30,H1: initialized
+0	06:22:38.816	QTI US30,H1: initialized
+0	06:22:38.954	Custom indicator trendpowervisual BTCUSD,Daily: loaded successfully
+0	06:22:39.040	Custom indicator Fibonacci Pivots THV BTCUSD,Daily: loaded successfully
+0	06:22:39.111	Custom indicator FerruFx_Multi_info THV(2) BTCUSD,Daily: loaded successfully
+0	06:22:39.184	Custom indicator channel-signal BTCUSD,Daily: loaded successfully
+0	06:22:39.194	Custom indicator trendpowercurve BTCUSD,Daily: loaded successfully
+0	06:22:39.206	trendpowervisual BTCUSD,Daily: initialized
+0	06:22:39.206	Fibonacci Pivots THV BTCUSD,Daily: initialized
+0	06:22:39.206	FerruFx_Multi_info THV(2) BTCUSD,Daily: initialized
+0	06:22:39.206	channel-signal BTCUSD,Daily: initialized
+0	06:22:39.222	trendpowercurve BTCUSD,Daily: initialized
+0	06:22:39.560	Custom indicator GHL GER30,H4: loaded successfully
+0	06:22:39.573	Custom indicator QTI GER30,H4: loaded successfully
+0	06:22:39.586	GHL GER30,H4: initialized
+0	06:22:39.586	QTI GER30,H4: initialized
+0	06:22:43.196	channel-signal BTCUSD,Daily: Alert: BTCUSD at DAILY Trading Signal : strong sell
